@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CarlsonTure_MA5/static/css/main.df21ca60.chunk.css",
+    "main.css": "/CarlsonTure_MA5/static/css/main.5a4c6c40.chunk.css",
     "main.js": "/CarlsonTure_MA5/static/js/main.733b472e.chunk.js",
     "main.js.map": "/CarlsonTure_MA5/static/js/main.733b472e.chunk.js.map",
     "runtime-main.js": "/CarlsonTure_MA5/static/js/runtime-main.132907d2.js",
@@ -8,13 +8,13 @@
     "static/js/2.9dad100c.chunk.js": "/CarlsonTure_MA5/static/js/2.9dad100c.chunk.js",
     "static/js/2.9dad100c.chunk.js.map": "/CarlsonTure_MA5/static/js/2.9dad100c.chunk.js.map",
     "index.html": "/CarlsonTure_MA5/index.html",
-    "static/css/main.df21ca60.chunk.css.map": "/CarlsonTure_MA5/static/css/main.df21ca60.chunk.css.map",
+    "static/css/main.5a4c6c40.chunk.css.map": "/CarlsonTure_MA5/static/css/main.5a4c6c40.chunk.css.map",
     "static/js/2.9dad100c.chunk.js.LICENSE.txt": "/CarlsonTure_MA5/static/js/2.9dad100c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.132907d2.js",
     "static/js/2.9dad100c.chunk.js",
-    "static/css/main.df21ca60.chunk.css",
+    "static/css/main.5a4c6c40.chunk.css",
     "static/js/main.733b472e.chunk.js"
   ]
 }
