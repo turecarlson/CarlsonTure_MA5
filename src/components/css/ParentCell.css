@@ -1,0 +1,10 @@
+.parent-cell {
+    text-align: center;
+}
+
+.child-containter {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 204px;
+}
